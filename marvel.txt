@@ -1,8 +1,9 @@
-xc zxc 
-jhgjug
-jg
-scasdvd
-fdnhdt
-jbkdche
-jkhdck
 
+if(x==mahi)
+{
+printf("karthik");
+}
+else
+{
+printf("nothing");
+}
