@@ -1,9 +1,3 @@
+fdkbjkfnbjkf
+kjfbnkjs
 
-if(x==mahi)
-{
-printf("karthik");
-}
-else
-{
-printf("nothing");
-}sdagfsrg
